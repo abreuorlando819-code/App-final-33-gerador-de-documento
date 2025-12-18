@@ -1,0 +1,14 @@
+{
+  "name": "BTX Docs Saúde",
+  "short_name": "BTX Docs",
+  "description": "Gerador de documentos clínicos: receituário, laudo, recibo, orçamento, atestado e ficha clínica.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": [
+    { "src": "logo.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "logo.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
